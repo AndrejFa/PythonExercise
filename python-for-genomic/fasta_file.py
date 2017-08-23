@@ -1,7 +1,6 @@
 #! /usr/local/bin/python3
 from Bio import SeqIO
 from collections import Counter
-import re
 from itertools import dropwhile
 
 
